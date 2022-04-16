@@ -1,0 +1,13 @@
+package main;
+
+public class Publication {
+	
+	private String title;
+	private String language;
+	private double price;
+	
+	public Publication() {
+		
+		
+	}
+}

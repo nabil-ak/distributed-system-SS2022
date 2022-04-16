@@ -1,0 +1,13 @@
+package main;
+
+public class Book extends Publication{
+	private String author;
+	private String ISBN;
+	public Book(String title, String language, double price, String author, String ISBN) {
+		super(title, language, price);
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+}

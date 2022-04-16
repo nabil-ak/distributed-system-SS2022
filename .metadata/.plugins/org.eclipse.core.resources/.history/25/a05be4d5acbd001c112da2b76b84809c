@@ -1,0 +1,16 @@
+package main;
+
+public class main {
+	
+	public static int factorial(int number) {
+		
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+
+	}
+
+}

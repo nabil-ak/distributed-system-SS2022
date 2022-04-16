@@ -1,0 +1,9 @@
+package main;
+
+public class Book extends Publication{
+
+	public Book(String title, String language, double price) {
+		super(title, language, price);
+		
+	} 
+}

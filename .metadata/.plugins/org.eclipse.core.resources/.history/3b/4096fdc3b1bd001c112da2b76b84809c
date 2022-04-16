@@ -1,0 +1,15 @@
+import java.util.HashSet;
+import java.util.Scanner;
+
+public class main {
+
+	public static void main(String[] args) {
+		HashSet<String> set = new HashSet<String>();
+		Scanner sc = new Scanner(System.in);
+		String line = sc.nextLine();
+		for(word: line.split(" ")) {
+			
+		}
+	}
+
+}
