@@ -17,6 +17,6 @@ public class Publication implements Display, Serializable{
 	public void print() {
 		System.out.println("Title: "+title);
 		System.out.println("Language: "+language);
-		System.out.println("Price: "+price+"€");
+		System.out.println("Price: "+price+"â‚¬");
 	}
 }

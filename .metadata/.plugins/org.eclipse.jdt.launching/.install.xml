@@ -2,4 +2,6 @@
 <dirs>
     <entry loc="C:\Users\Nabil\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059" stamp="1636379905367"/>
     <entry loc="C:\Users\Nabil\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\jre" stamp="1636379905362"/>
+    <entry loc="/opt/eclipse-java/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.2.v20220201-1208" stamp="1646924908000"/>
+    <entry loc="/opt/eclipse-java/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.2.v20220201-1208/jre" stamp="1646924908000"/>
 </dirs>

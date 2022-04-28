@@ -16,6 +16,7 @@ public class read_application {
 			
 			for(Display dis: d) {
 				dis.print();
+				System.out.println("__________________________________________________________");
 			}
 		} catch (FileNotFoundException e) {
 			System.err.println(e.toString());

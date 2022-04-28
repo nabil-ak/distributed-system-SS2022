@@ -1,8 +1,9 @@
-INDEX VERSION 1.131+C:\Users\Nabil\OneDrive - stud.fra-uas.de\Studium\4.Semester\Distributed Systems\Workspace\.metadata\.plugins\org.eclipse.jdt.core
-1326210581.index
-2529735014.index
-264364252.index
-2701279033.index
+INDEX VERSION 1.131+/home/student/binf/uas0009847/distributed-system-SS2022/.metadata/.plugins/org.eclipse.jdt.core
 1865797976.index
-3590655919.index
-1063692954.index
+417353737.index
+3240411002.index
+2179531187.index
+3055783916.index
+30426869.index
+1479405248.index
+675748431.index

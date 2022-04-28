@@ -16,6 +16,7 @@ public class main {
 		
 		for(int i = 0; i < 10; i++) {
 			d[i].print();
+			System.out.println("__________________________________________________________");
 		}
 	}
 
