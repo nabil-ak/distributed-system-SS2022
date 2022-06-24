@@ -1,7 +1,7 @@
 content_assist_completion_replacement_background=200,200,0
 content_assist_completion_replacement_foreground=200,0,0
 content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="main.Publication"><rhs name\="main.Publication"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.AbstractSet"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.HashSet"><rhs name\="java.util.HashSet"/></lhs><lhs name\="main.participant"><rhs name\="main.participant"/></lhs><lhs name\="main.conference"><rhs name\="main.conference"/></lhs><lhs name\="main.MessageClient"><rhs name\="main.MessageClient"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.ByteArrayInputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.ByteArrayInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.ByteArrayInputStream"/></lhs><lhs name\="java.io.ByteArrayInputStream"><rhs name\="java.io.ByteArrayInputStream"/></lhs><lhs name\="main.MessageServer"><rhs name\="main.MessageServer"/></lhs></history>
-content_assist_number_of_computers=13
+content_assist_number_of_computers=17
 content_assist_parameters_background=52,57,61
 content_assist_parameters_foreground=238,238,238
 content_assist_proposals_background=52,57,61
